@@ -4,21 +4,23 @@
 
 
 
-- 🌟 Motto: Too many of us are not living our dreams because we are living our fears.
-- 🌱 Hobby: Coding & ⛳ Flag in Hole & 🛼 Roller Skate & more.
-- 🏡 Hometown: China
+- 🌟 Motto: No matter how hard the past, you can always begin again.
+- 🌱 Hobby: Coding & ⚽ Soccer Ball & more.
+
 - 🏢 Office: Guangzhou, Guangdong
 - ⚡ Fun fact: Oops!😝😝😝
-- Nice meeting you.
+- Have a nice day!
 
 #### 🛠 Languages and Tools
 
 ![Vue.JS](https://img.shields.io/badge/-Vue.js-35495c?&style=flat-square&logo=vue.js&logoColor=default)
-![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat-square&logo=CSS&logoColor=default)
-![React.JS](https://img.shields.io/badge/-React.js-35495c?&style=flat-square&logo=React&logoColor=default)
 ![C++](https://img.shields.io/badge/-C++-brightgreen?style=flat-square&logo=C&logoColor=default)
-![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=React&logoColor=default)
-![SCSS](https://img.shields.io/badge/-SCSS-090909?style=flat-square&logo=SCSS&logoColor=default)
+![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat-square&logo=CSS&logoColor=default)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=TypeScript&logoColor=default)
+![Less](https://img.shields.io/badge/-Less-090909?style=flat-square&logo=Less&logoColor=default)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![React.JS](https://img.shields.io/badge/-React.js-35495c?&style=flat-square&logo=React&logoColor=default)
+![Python](https://img.shields.io/badge/-Python-375A81?style=flat-square&logo=Python&logoColor=default)
 
 #### :trophy: Coding Info
 
